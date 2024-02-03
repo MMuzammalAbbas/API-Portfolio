@@ -1,0 +1,4 @@
+http://localhost:3000/skills: Access this URL to see the list of skills.
+http://localhost:3000/experience: Access this URL to see the list of experiences.
+http://localhost:3000/projects: Access this URL to see the list of projects.
+http://localhost:3000/socials: Access this URL to see the list of social links.
